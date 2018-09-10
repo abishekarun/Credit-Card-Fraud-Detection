@@ -3,7 +3,7 @@
 In this project, we try to identify the fradulent applications for credit card using hybrid model consisting of 
 self orgainizing maps and neural network. This project was done as a part of Deep Learning A-Z course on Udemy.
 
-The Jupyter notebook with standard rnn model can be found [here](https://github.com/Credit-Card-Fraud-Detection/hybrid_som.ipynb).
+The Jupyter notebook with the hybrid model (SOM + NN) can be found [here](https://github.com/Credit-Card-Fraud-Detection/hybrid_som.ipynb).
 
 The resources that helped me are:
 
